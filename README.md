@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./public/assets/images/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Weather Dashboard README</h3>
 
@@ -87,14 +87,18 @@ Heroku<br>
 Below you'll be able to see screen shots of the deployed app. You can also view the road map to see how you can test it locally.
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Here's a screen shot of what the app looks like when someone is viewing it at different stages.
+Here's a screen shot of what the app looks like when someone is viewing it at different stages.<br>
+
+![](./public/assets/images/note_taker_homepage.png)<br>
+![](./public/assets/images/note_taker_dashboard.png)<br>
+![](./public/assets/images/note_taker_testing.png)<br>
+![](./public/assets/images/note_taker_worked.png)<br>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
